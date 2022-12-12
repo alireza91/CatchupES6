@@ -1,0 +1,24 @@
+{
+  "name": "catchup",
+  "version": "1.0.0",
+  "description": "A simple captcha for using in front-end",
+  "main": "es6-catchup.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alireza91/captchaForJs.git"
+  },
+  "keywords": [
+    "captcha",
+    "javascript",
+    "catchup"
+  ],
+  "author": "Alireza Mortezaei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alireza91/captchaForJs/issues"
+  },
+  "homepage": "https://github.com/alireza91/captchaForJs#readme"
+}
