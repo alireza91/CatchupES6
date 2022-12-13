@@ -15,10 +15,10 @@ $ npm install catchup
 ``` javascript
 import catchup from "catchup";
 const captcha = new catchup({
-					stringLength: 6,
-					lineNoise: 25,
-					dotNoise: 150,
-					})
+			stringLength: 6,
+			lineNoise: 25,
+			dotNoise: 150,
+			})
 
 let captchaData = captcha.draw();
 ```
